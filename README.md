@@ -1,6 +1,15 @@
-# hostess
+# Hostess
 Override your hosts on your mac. Using a menu application which could not be simpler or easier to use.
 
+## Instructions
+
+- Move Hostess.app to your applications folder
+- Run it!
+- Select a custom hosts file (same markup as the original one)
+- Toggle use custom hosts (enter password, do not despair it's a native mac thing and has nothing to do with us. In fact we don't do nottin' with your password, it will never leave the native mac input field and nothing will be saved or tranfered in any way).
+
+- If you're bored with your new hosts, you can toggle the button (use custom hosts), which will restore your original hosts file. Everytime you toggle that button a copy will be saved to ensure you won't ever be homeless or better said, hostsless! 
+- In retrospect, ignore comment above. It seemed funny at the time, but i'm now definately questioning my sense of humor!
 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
